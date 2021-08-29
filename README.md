@@ -31,6 +31,19 @@
 ![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat&logo=Windows&logoColor=0078D6)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=Linux&logoColor=FCC624) -->
 
+
+<!-- <details>
+  <summary><b><samp>GitHub Stats</samp></b></summary>
+<a href="https://github.com/mAminP">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mAminP&theme=dark" />
+</a>
+<a href="https://github.com/mAminP">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mAminP&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
+<a href="https://github.com/mAminP">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mAminP&theme=dark" />
+</a>
+
+</details> -->
 <!--
 **mAminP/maminp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
