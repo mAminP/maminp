@@ -1,8 +1,11 @@
-### Hi there 👋 
-#### I'm Mohammad Amin Pasban
-##### I'm a web developer
+<p align="center"><samp><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
+
+### I'm Mohammad Amin Pasban
+#### I'm a web developer
+
 
 - 🌱 I’m currently learning "tensorFlow JS"
+
 
 ## The tools and technologies I use
 
@@ -24,9 +27,9 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-0d1117?style=flat&logo=AdobePhotoshop&logoColor=31A8FF)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-0d1117?style=flat&logo=AdobeXD&logoColor=FF61F6)
-
+<!-- 
 ![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat&logo=Windows&logoColor=0078D6)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=Linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=Linux&logoColor=FCC624) -->
 
 <!--
 **mAminP/maminp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
